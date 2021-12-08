@@ -1,2 +1,4 @@
 # ruberad.github.io
-Github Pages repo
+
+[Hashcash](hashcash.html)
+
